@@ -1,0 +1,72 @@
+#text_input{
+    width: 250px;
+    height: 30px;
+   
+}
+
+ .navbar{
+    display: flex;
+    gap: 500px;
+    justify-content: center;
+
+    margin-top: 20px;
+ }
+ .input_group{
+    display: flex;
+    flex-direction: column;
+ }
+#submit_btn{
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border:none;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+h1{
+    font-weight: bold;
+    margin-top: 27px;
+}
+p{
+    font-size: 30px;
+font-weight: bold;
+}
+
+.balance{
+
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+}
+
+#input_text{
+    width: 250px;
+    height: 30px;
+ }
+#submit{
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border:none;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+
+ }
+ .charge{
+    display: flex;
+    justify-content:center;
+    margin-left: 750px;
+ }
+
+ .cashback{
+    display: flex;
+    justify-content: center;
+    margin-left: 750px;
+
+ }
